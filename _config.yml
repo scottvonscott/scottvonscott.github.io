@@ -1,11 +1,11 @@
 # Site settings
-author: Scott  Keplinger
-title: 
+author: Scott Keplinger
+title: Codemode
 header-img: img/home-bg.png
 email: skeplin17@gmail.com
-copyright_name: Scott  Keplinger
+copyright_name: Scott Keplinger
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coffee + Quiet Panic = Success
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  scottvonscott
